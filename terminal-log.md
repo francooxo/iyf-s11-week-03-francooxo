@@ -9,4 +9,4 @@ This log documents the essential command-line interface (CLI) utilities used dur
 * `git init` — Instantiated a blank local Git repository context.
 * `echo` — Formatted structural text directly into standard file outputs.
 * `git status` — Audited tracked vs untracked file allocations within the tree.
-* `git checkout -b <branch>` — Provisioned an isolated tracking branch layout.
+* `git checkout -b <branch>` — Provisioned an isolated tracking branch layout.* git log --oneline - Viewed a compressed history graph map.
